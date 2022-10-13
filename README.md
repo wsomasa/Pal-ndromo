@@ -19,24 +19,24 @@ for x in lista:
     lista_2.append(indice)
 #print(lista_2)
 if lista[0] == lista_2[0]:
-    print('\033[92m'"\t","La palabra palindromo es: ", lista[0],'\033[0m')
+    print('\033[92m'"\t","La palabra palíndromo es: ", lista[0],'\033[0m')
 if lista[1] == lista_2[1]:
-    print('\033[92m'"\t","La palabra palindromo es: ", lista[1], '\033[0m')
+    print('\033[92m'"\t","La palabra palíndromo es: ", lista[1], '\033[0m')
 if lista[2] == lista_2[2]:
-    print('\033[92m'"\t","La palabra palindromo es: ", lista[2], '\033[0m')
+    print('\033[92m'"\t","La palabra palíndromo es: ", lista[2], '\033[0m')
 if lista[3] == lista_2[3]:
-    print('\033[92m'"\t","La palabra palindromo es: ", lista[3], '\033[0m')
+    print('\033[92m'"\t","La palabra palíndromo es: ", lista[3], '\033[0m')
 if lista[4] == lista_2[4]:
-    print('\033[92m'"\t","La palabra palindromo es: ", lista[4], '\033[0m')
+    print('\033[92m'"\t","La palabra palíndromo es: ", lista[4], '\033[0m')
 if lista[5] == lista_2[5]:
-    print('\033[92m'"\t","La palabra palindromo es: ", lista[5], '\033[0m')
+    print('\033[92m'"\t","La palabra palíndromo es: ", lista[5], '\033[0m')
 if lista[6] == lista_2[6]:
-    print('\033[92m'"\t","La palabra palindromo es: ", lista[6], '\033[0m')
+    print('\033[92m'"\t","La palabra palíndromo es: ", lista[6], '\033[0m')
 if lista[7] == lista_2[7]:
-    print('\033[92m'"\t","La palabra palindromo es: ", lista[7], '\033[0m')
+    print('\033[92m'"\t","La palabra palíndromo es: ", lista[7], '\033[0m')
 if lista[8] == lista_2[8]:
-    print('\033[92m'"\t","La palabra palindromo es: ", lista[8], '\033[0m')
+    print('\033[92m'"\t","La palabra palíndromo es: ", lista[8], '\033[0m')
 if lista[9] == lista_2[9]:
-    print('\033[92m'"\t","La palabra palindromo es: ", lista[9], '\033[0m')    
+    print('\033[92m'"\t","La palabra palíndromo es: ", lista[9], '\033[0m')    
 else:
     print('\n''\033[93m'"\t","no hay más coincidencias", '\033[0m''\n')
